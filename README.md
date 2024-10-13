@@ -20,6 +20,6 @@ The installation process is rather straightforward and very easy to do. Follow f
 It is important to do this after installation or else nothing will download or install.
 YOU MUST:
 1. Press the Zen Logo to open the start menu.
-2. Open GPARTED, and type the password found above in [Credentials].(https://github.com/Vipro-Projects-Corp/Zen-OS/edit/main/README.md#credentials-to-log-in-sudo)
+2. Open GPARTED, and type the password found above in [Credentials](https://github.com/Vipro-Projects-Corp/Zen-OS/main/README.md#credentials-to-log-in-sudo)
 3. Find the "rootfs" partition, right click it, and select "Resize/Move".
 4. Resize it all the way to the full size of your disk. (In future versions, there might be no need to do this, as startup scripts may handle it.)
